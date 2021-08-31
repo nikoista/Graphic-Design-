@@ -1,2 +1,2 @@
-# GraphicDesign-
+# GraphicDesign
 Graphic Design Basics
